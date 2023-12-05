@@ -1,0 +1,59 @@
+ol{
+    margin-left: 400px;
+    margin-top: 60px;
+}
+img{
+    border-radius: 70%;
+    border: 10px black;
+   
+
+}
+li{
+    color: blue;
+}
+.row flex-lg-row-reverse align-items-center g-5 py-5{
+    background-color: black;
+}
+
+.lead{
+    line-height: 30px;
+    margin-top: 40px;
+    color: brown;
+}
+h2{
+    margin-left: 40px;
+}
+.bootstrap{
+    height: 40px;
+    width: 50px;
+}
+
+.powerbi{
+    height: 40px;
+    width: 50px;
+}
+.css{
+    height: 40px;
+    width: 50px;
+}
+.html{
+    height: 40px;
+    width: 50px;
+}
+.python{
+    height: 35px;
+    width: 50px;
+}
+.java{
+    height: 40px;
+    width: 50px;
+}
+.c{
+    height: 35px;
+    width: 50px;
+}
+
+.sql{
+    height: 40px;
+    width: 50px;
+}
